@@ -1,5 +1,12 @@
 # submit-urls-from-sitemap-to-search-engine
 
+todo:
+
+* russian---yadex
+* spanish--
+* france--
+* 
+
 ## 它可以干嘛
 
 提取 sitemap 中的链接，利用百度、必应、谷歌 API **自动** 推送至搜索引擎，提升网站收录速度。
