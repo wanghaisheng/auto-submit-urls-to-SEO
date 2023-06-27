@@ -5,7 +5,10 @@ todo:
 * russian---yadex
 * spanish--
 * france--
-* 
+
+https://swimburger.net/blog/umbraco/integrate-indexnow-with-umbraco-cms-to-submit-content-to-search-engines
+
+
 
 ## 它可以干嘛
 
