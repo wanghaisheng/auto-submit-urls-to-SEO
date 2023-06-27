@@ -8,6 +8,9 @@ todo:
 
 https://swimburger.net/blog/umbraco/integrate-indexnow-with-umbraco-cms-to-submit-content-to-search-engines
 
+https://github.com/bojieyang/indexnow-action
+
+
 
 
 ## 它可以干嘛
